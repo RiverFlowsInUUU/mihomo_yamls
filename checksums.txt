@@ -1,0 +1,12 @@
+0f379c3b78d651983ae893004df5afea145bd883127c223a3da0f1b7a16bed26  ./publish/sing-box/sing-box-ref1nd-stable-linux-amd64-v3.upx
+11665e77a26039a9e4e171f2d852e1f9d04030c712e7b7d404f12f2d73d1d860  ./publish/sing-box/sing-box-ref1nd-stable-linux-arm64.upx
+195930e8a2c6c0d8cede37115ad3b1028afc52695d2f9f777b9e70e40a11a6ef  ./publish/sing-box/sing-box-ref1nd-stable-linux-mipsle-hardfloat.upx
+1db2ec839cf2426534bdc7b8c50c14b7819b9d20471a5b74b5cb3945c32fb881  ./publish/sing-box/sing-box-ref1nd-stable-linux-amd64-v1.upx
+57067145cc9638a758d11295db479a7ac92d6884fbad677054c723bcd3ef1dc2  ./publish/sing-box/sing-box-ref1nd-stable-linux-armv7.upx
+5ed7ed8f8fab7a6f24a5608f219259c00705c8b7149fbf9ca1603ec084f74a42  ./publish/sing-box/sing-box-ref1nd-stable-linux-mipsle-softfloat.upx
+857c1906f5b7cebae9ce80df2558bda891a79567d40277c2593d048e27f14e6f  ./publish/sing-box/sing-box-ref1nd-stable-linux-armv6.upx
+8e0dad5a69170cdaf1b9dc18e0749d7e87e6874420ee4982690eeee1a8f7f29f  ./publish/sing-box/sing-box-ref1nd-stable-linux-armv5.upx
+9452022591a272f7987980c01411ac0d9ef8701ffb1b26571440b368508b49c5  ./publish/sing-box/sing-box-ref1nd-stable-windows-arm64.exe
+b61803215135d760cde41e0c02d3e0334f34bd9dd7bc382184b91b0f151d961c  ./publish/sing-box/sing-box-ref1nd-stable-windows-amd64-v3.exe
+f8164249f47f2d02a6f33ece7ce6eea7ca99b09c032e7fa1cc76e7ed68531f38  ./publish/sing-box/sing-box-ref1nd-stable-windows-amd64-v1.exe
+ff72e0bd8e660cba9e15ccb40689b15d0e2ef93001ddf3d47712bdd2ca31aab5  ./publish/sing-box/sing-box-ref1nd-stable-linux-mips-softfloat.upx
